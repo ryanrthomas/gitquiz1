@@ -1,42 +1,14 @@
 # gitquiz1
 # Project Title
-
-> A short description about the project and/or client.
+### Quiz 1 Git Case Study
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-The things you need before installing the software.
-
-- You need this
-- And you need this
-- Oh, and don't forget this
-
-### Installation
-
-A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-## Usage
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-### Branches
-
-* Main:
-* Feature:
-* Bugfix:
-* etc...
+In teams of 3, you will assume the roles of Eric, Lucy, and Adam. Each team member will recreate the steps that their corresponding roles completed to exercise the following skills:
+Using the terminal to run git commands
+- Creating branches
+- Creating new files
+- Add changed files to your commits
+- Resolving merge conflicts
+- Approving merge requests
+- Completing merge requests
